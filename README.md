@@ -2,7 +2,7 @@
 
 > :warning: This repo is deprecated and replaced by [google-translate-tts](https://github.com/ncpierson/google-translate-tts)
 
-Untuk membuat suara Google, kamu juga bisa menggunakan Playdown.id yang di dalamnya tersedia berbagai bahasa. Untuk memanfaatnya situs ini, berikut tutorial selengkapnya:
+Untuk membuat suara Google, kamu juga bisa menggunakan Playdown.id yang di dalamnya tersedia berbagai bahasa. Untuk memanfaatkan situs ini, berikut tutorial selengkapnya:
 
 - Aktifkan data di smartphone lalu akses browser yang di install di smartphone.
 - Jika pakai Google, kamu bisa akses situs berikut https://www.playdown.id/ 
